@@ -30,3 +30,4 @@ jobs:
         with:
           exit_zero: true
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          path: .
